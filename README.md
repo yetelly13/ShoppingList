@@ -10,6 +10,7 @@ Features:
 3.Filter Items with keyword match
 4.Edit Items
 5.Detect duplicate Items
+6.Add Items to local Storage and delete items from Local Storage
 
 
 
