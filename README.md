@@ -3,6 +3,7 @@
 Built using HTML,CSS,Vanilla JavaScript.
 
 This project includes  working with the DOM, events, state, local storage and other fundamentals of JavaScript.
+Deployed on Netlify
 
 Features:
 1.Add Items
